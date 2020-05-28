@@ -1,3 +1,30 @@
+# React Flash Cards
+
+### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
+
+#### Week 5
+
+Basic Objectives:
+
+-Use create-react-app to create a new react project
+
+-Ability to add new flash cards
+
+-Ability to delete a flash card
+
+-Ability to show the flash card answer
+
+
+Bonus Objectives:
+
+-Add semantic-ui-react and style it all nice and pretty
+
+-Ability to edit a flash card 
+
+-Have the ability to have a history of what flash cards you got wrong and need to study more.
+
+
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
